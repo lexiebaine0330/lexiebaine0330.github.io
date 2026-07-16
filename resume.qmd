@@ -9,7 +9,7 @@ Student
 <a href="lexiebaine@gmail.com">lexiebaine@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="C:\Users\lexie\OneDrive\Documents\GitHub\lexiebaine0330.github.io\Lexie_Baine_Resume.pdf">Download PDF</a>
+| <a href="https://github.com/lexiebaine0330/lexiebaine0330.github.io/blob/main/Lexie_Baine_Resume.pdf">Download PDF</a>
 </div>
 
 
