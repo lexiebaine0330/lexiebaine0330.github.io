@@ -1,55 +1,46 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Lexie Baine's CV
 ---
 # Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+Student
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
+<a href="lexiebaine@gmail.com">lexiebaine@gmail.com</a>
 | <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
 <!-- | <a href="https://yourusername.github.io/datascience_portfolio/gh-pages/resume.pdf">Download PDF</a> -->
-| <a href="https://github.com/byuidatascience/datascience_portfolio/blob/gh-pages/resume.pdf">Download PDF</a>
+| <a href="C:\Users\lexie\OneDrive\Documents\GitHub\lexiebaine0330.github.io\Lexie_Baine_Resume.pdf">Download PDF</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Going to school for a Bachelors in Accounting
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Data Science and Event Planning
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Using data science to make accounting and event planning run more efficiently. 
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2020-2024`
+__Associates in General Studies at BYU-Idaho__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2026 - now`
+__Bachelors in Accounting at BYU-Idaho__
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+None yet
 
 
 
@@ -59,30 +50,16 @@ Associate, *French Academy of Science*, Paris, France
 
 ### Journals
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
+None Yet
 
 ### Patents
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+None Yet
 
 
 ## Occupation
 
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Student
 
 
 
