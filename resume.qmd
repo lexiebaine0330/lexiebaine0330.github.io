@@ -2,7 +2,7 @@
 layout: cv
 title: Lexie Baine's CV
 ---
-# Isaac Newton
+# Lexie Baine
 Student
 
 <div id="webaddress">
